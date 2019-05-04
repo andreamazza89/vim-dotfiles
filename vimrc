@@ -22,6 +22,7 @@ set softtabstop=2
 set bs=2
 set autoindent
 set expandtab
+set showtabline=0
 
 set ttyfast
 set lazyredraw

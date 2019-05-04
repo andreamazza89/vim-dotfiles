@@ -4,7 +4,6 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'mileszs/ack.vim'
 Plug 'w0rp/ale'
-Plug 'ap/vim-buftabline'
 Plug 'tpope/vim-fugitive'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'scrooloose/nerdtree'
