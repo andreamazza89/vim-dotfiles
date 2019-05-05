@@ -7,6 +7,7 @@ packages_to_install=(
   "slack"
   "pycharm"
   "spotify"
+  "whatsapp"
 )
 
 for package in "${packages_to_install[@]}"; do
