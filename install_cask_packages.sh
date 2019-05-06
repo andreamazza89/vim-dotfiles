@@ -1,11 +1,11 @@
 packages_to_install=(
+  "1password"
+  "docker"
+  "firefox"
   "iterm2"
   "google-chrome"
-  "1password"
-  "firefox"
-  "docker"
+  "pycharm-ce"
   "slack"
-  "pycharm"
   "spotify"
   "whatsapp"
 )
