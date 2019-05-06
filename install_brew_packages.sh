@@ -8,6 +8,7 @@ packages_to_install=(
   "pyenv"
   "pipenv"
   "openssl"
+  "postgresql"
   "readline"
   "sqlite3"
   "zlib"

@@ -3,6 +3,7 @@ packages_to_install=(
   "docker"
   "firefox"
   "iterm2"
+  "intellij-idea-ce"
   "google-chrome"
   "pycharm-ce"
   "slack"
