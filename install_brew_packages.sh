@@ -1,10 +1,11 @@
 packages_to_install=(
-  "tmux"
-  "fish"
+  "ansible"
   "awscli"
-  "terraform"
   "docker"
   "docker-compose"
+  "fish"
+  "fzf"
+  "maven"
   "node"
   "openssl"
   "pyenv"
@@ -12,6 +13,10 @@ packages_to_install=(
   "postgresql"
   "readline"
   "sqlite3"
+  "serverless"
+  "terraform"
+  "tmux"
+  "tree"
   "zlib"
 )
 
