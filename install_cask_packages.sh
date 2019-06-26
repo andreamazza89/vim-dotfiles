@@ -13,6 +13,7 @@ packages_to_install=(
   "skype"
   "spotify"
   "typora"
+  "tunnelbear"
   "whatsapp"
 )
 
