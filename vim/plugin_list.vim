@@ -10,6 +10,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'mtth/scratch.vim'
 Plug 'machakann/vim-highlightedyank'
 Plug 'reedes/vim-wordy'
+Plug 'triglav/vim-visual-increment'
 
 " languages
 
